@@ -1,5 +1,7 @@
 # Airline Passenger Satisfaction - Naive Bayes (Geraldine Marten-Ellis)
 # DS520 Data Mining Team Project - 89.11% Accuracy
+# Datasets: Download from Kaggle 
+# train.csv: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
 # Load required packages
 library(caret)
